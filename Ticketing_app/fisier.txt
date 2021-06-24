@@ -1,0 +1,20 @@
+Eroare adauga, Companie,5/10/2020 12:00:00 AM, MEDIU
+Eroare deschidere aplicatie, BMPR,3/8/2020 12:00:00 AM, URGENT
+Eroare adauga programator,  Companie,5/10/2020 12:00:00 AM, CRITIC
+Eroare deschidere aplicatie,  BMPR,3/8/2020 12:00:00 AM, URGENT
+Eroare adauga programator,  Companie,5/10/2020 12:00:00 AM, CRITIC
+Eroare deschidere aplicatie,  BMPR,3/8/2020 12:00:00 AM, URGENT
+Eroare deschidere aplicatie, BMPR,3/8/2020 12:00:00 AM, URGENT
+Eroare adauga programator, Companie,5/10/2020 12:00:00 AM, CRITIC
+Eroare adauga programator, Companie,5/10/2020 12:00:00 AM, CRITIC
+Eroare deschidere aplicatie, BMPR,3/8/2020 12:00:00 AM, URGENT
+Eroare adauga, Companie,5/10/2020 12:00:00 AM, MEDIU
+Eroare deschidere aplicatie, BMPR,3/8/2020 12:00:00 AM, URGENT
+Eroare adauga programator,  Companie,5/10/2020 12:00:00 AM, CRITIC
+Eroare deschidere aplicatie,  BMPR,3/8/2020 12:00:00 AM, URGENT
+Eroare adauga programator,  Companie,5/10/2020 12:00:00 AM, CRITIC
+Eroare deschidere aplicatie,  BMPR,3/8/2020 12:00:00 AM, URGENT
+Eroare deschidere aplicatie, BMPR,3/8/2020 12:00:00 AM, URGENT
+Eroare adauga programator, Companie,5/10/2020 12:00:00 AM, CRITIC
+Eroare adauga programator, Companie,5/10/2020 12:00:00 AM, CRITIC
+Eroare deschidere aplicatie, BMPR,3/8/2020 12:00:00 AM, URGENT
